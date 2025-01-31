@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [github.com/Rajusavra](https://github.com/Rajusavra)
 - 💬 Ask me about **anything related to me and backend development**
 - 📫 How to reach me **savraraju49@gmail.com**
-- 📄 Know about my experiences [Google Drive Resume](https://drive.google.com/drive/home)
+- 📄 Know about my experiences [Google Drive Resume]([https://drive.google.com/drive/home](https://drive.google.com/file/d/1OmTIP17G-W0Q1vmVFC4NDcydmliA_TxK/view?usp=sharing))
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because the light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
@@ -66,14 +66,14 @@
 
 <h3 align="start">Node.js Developer Expertise:</h3>
 <p align="start">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Node.js Gif" width="300" />
+  <img src="https://png.pngtree.com/png-vector/20220629/ourmid/pngtree-backend-development-abstract-concept-vector-illustration-set-png-image_5598853.png" alt="Node.js Gif" width="65%" />
   <br />
   Node.js is the backbone of my backend development projects. With an in-depth understanding of asynchronous programming, I build scalable and performant applications using Node.js and related technologies such as Express, MongoDB, and RESTful APIs. My expertise in Node.js enables me to create efficient server-side solutions for handling a variety of web application requirements.
 </p>
 
 <h3 align="start">My Favorite Development Tools:</h3>
 <p align="start">
-  <img src="https://static01.nyt.com/images/2020/12/23/business/23Techfix-illo/23Techfix-illo-superJumbo.gif" alt="Development Tools Gif" width="300" />
+  <img src="https://static01.nyt.com/images/2020/12/23/business/23Techfix-illo/23Techfix-illo-superJumbo.gif" alt="Development Tools Gif" width="50%" />
   <br />
   I am passionate about using tools that optimize my backend development workflow, such as Postman for API testing, Git for version control, and Visual Studio Code for writing clean and efficient code.
 </p>
