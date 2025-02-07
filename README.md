@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajusavra&label=Profile%20views&color=0e75b6&style=flat" alt="rajusavra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajusavra&theme=dark" alt="rajusavra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="rajusavra" /></a> </p>
 
 - 🔭 I’m currently working on [Node Js](https://github.com/Rajusavra/Node-Js)
 - 🌱 I’m currently learning **My SQL**
