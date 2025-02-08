@@ -73,7 +73,7 @@
 
 <h3 align="start">My Favorite Development Tools:</h3>
 <p align="start">
-  <img src="https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2023-02%2Fnode-tools.png&w=3840&q=90" alt="Development Tools Gif" width="50%" />
+  <img src="https://png.pngtree.com/png-clipart/20240416/original/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_14867886.png" width="50%" />
   <br />
   I am passionate about using tools that optimize my backend development workflow, such as Postman for API testing, Git for version control, and Visual Studio Code for writing clean and efficient code.
 </p>
