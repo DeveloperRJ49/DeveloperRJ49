@@ -73,7 +73,7 @@
 
 <h3 align="start">My Favorite Development Tools:</h3>
 <p align="start">
-  <img src="https://static01.nyt.com/images/2020/12/23/business/23Techfix-illo/23Techfix-illo-superJumbo.gif" alt="Development Tools Gif" width="50%" />
+  <img src="https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2023-02%2Fnode-tools.png&w=3840&q=90" alt="Development Tools Gif" width="50%" />
   <br />
   I am passionate about using tools that optimize my backend development workflow, such as Postman for API testing, Git for version control, and Visual Studio Code for writing clean and efficient code.
 </p>
@@ -90,8 +90,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajusavra&show_icons=true&theme=dark&layout=compact" alt="rajusavra" width="400"/>
 </p>
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajusavra&show_icons=true&theme=dark" alt="rajusavra" width="400" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperRJ49&show_icons=true&theme=dark" alt="rajusavra" width="400" height="220"/>
 </p>
 
 <h3 align="start">Thanks for visiting my profile! 😄</h3>
-  <img src="https://media.tenor.com/yf2J9gTT3rQAAAAM/bye-bye.gif" alt="Thank You" width="300" />
+  <img src="https://sfconservancy.org/img/GiveUpGitHub.svg" alt="Thank You" width="300" />
