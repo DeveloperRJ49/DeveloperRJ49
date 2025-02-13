@@ -87,7 +87,7 @@
 
 <h3 align="start">GitHub Stats:</h3>
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajusavra&show_icons=true&theme=dark&layout=compact" alt="rajusavra" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperRJ49&show_icons=true&theme=dark&layout=compact" alt="rajusavra" width="400"/>
 </p>
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperRJ49&show_icons=true&theme=dark" alt="rajusavra" width="400" height="220"/>
