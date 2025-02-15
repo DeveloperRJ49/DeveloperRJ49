@@ -64,7 +64,7 @@
   </a>
 </p>
 
-<h3 align="start">Node.js Developer Expertise:</h3>
+<h3 align="start"> Developer Expertise:</h3>
 <p align="start">
   <img src="https://png.pngtree.com/png-vector/20220629/ourmid/pngtree-backend-development-abstract-concept-vector-illustration-set-png-image_5598853.png" alt="Node.js Gif" width="65%" />
   <br />
