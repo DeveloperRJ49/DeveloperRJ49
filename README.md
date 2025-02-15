@@ -82,7 +82,7 @@
 <p align="start">
   <img src="https://i.gifer.com/rkb.gif" width="300" />
   <br />
-  My coding environment is optimized for productivity, with tools like VSCode, Node.js, Git, and Docker to ensure efficient development and deployment of backend applications.
+  My coding environment is optimized for productivity, with tools like VSCode, Node.js, Git, and to ensure efficient development and deployment of backend applications.
 </p>
 
 <h3 align="start">GitHub Stats:</h3>
