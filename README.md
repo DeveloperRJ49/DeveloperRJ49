@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Node Js](https://github.com/Rajusavra/Node-Js)
 - 🌱 I’m currently learning **My SQL**
-- 👨‍💻 All of my projects are available at [github.com/Rajusavra](https://github.com/Rajusavra)
+- 👨‍💻 All of my projects are available at [github.com/Rajusavra](https://github.com/DeveloperRJ49)
 - 💬 Ask me about **anything related to me and backend development**
 - 📫 How to reach me **savraraju49@gmail.com**
 - 📄 Know about my experiences [Google Drive Resume]([https://drive.google.com/drive/home](https://drive.google.com/file/d/1OmTIP17G-W0Q1vmVFC4NDcydmliA_TxK/view?usp=sharing))
