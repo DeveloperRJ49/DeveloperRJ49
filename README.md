@@ -73,7 +73,7 @@
 
 <h3 align="start">My Favorite Development Tools:</h3>
 <p align="start">
-  <img src="https://png.pngtree.com/png-clipart/20240416/original/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_14867886.png" width="50%" />
+  <img src="https://wallpapers.com/images/hd/web-developerat-work-illustration-png-9wxnnbpbatv5o2dn.png" width="50%" />
   <br />
   I am passionate about using tools that optimize my backend development workflow, such as Postman for API testing, Git for version control, and Visual Studio Code for writing clean and efficient code.
 </p>
