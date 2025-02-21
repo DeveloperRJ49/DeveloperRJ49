@@ -66,7 +66,7 @@
 
 <h3 align="start"> Developer Expertise:</h3>
 <p align="start">
-  <img src="https://png.pngtree.com/png-vector/20220629/ourmid/pngtree-backend-development-abstract-concept-vector-illustration-set-png-image_5598853.png" alt="Node.js Gif" width="65%" />
+  <img src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-3d-character-illustration-of-programmer-png-image_9952984.png" alt="Node.js Gif" width="65%" />
   <br />
   Node.js is the backbone of my backend development projects. With an in-depth understanding of asynchronous programming, I build scalable and performant applications using Node.js and related technologies such as Express, MongoDB, and RESTful APIs. My expertise in Node.js enables me to create efficient server-side solutions for handling a variety of web application requirements.
 </p>
