@@ -95,3 +95,5 @@
 
 <h3 align="start">Thanks for visiting my profile! 😄</h3>
   <img src="https://sfconservancy.org/img/GiveUpGitHub.svg" alt="Thank You" width="300" />
+<h3 align="start">Programming Mode Active 👁‍🗨</h3>
+  <img src="https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif" alt="Thank You" width="300" />
